@@ -41,6 +41,7 @@
 #include "pymem.h"
 #include "pytypedefs.h"
 #include "pybuffer.h"
+#include "pyatomic.h"
 #include "object.h"
 #include "objimpl.h"
 #include "typeslots.h"
